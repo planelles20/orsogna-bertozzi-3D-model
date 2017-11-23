@@ -3,20 +3,20 @@ This 3D model is based on "D'Orsogna, Bertozzi et al. model (PRL 2006)".
 
 ## Model (mathematical description)
 <p align="center">
-    <img src="https://github.com/planelles20/model/blob/master/img/model.png?raw=true" alt="model"/>
+    <img src="https://github.com/planelles20/orsogna-bertozzi-3D-model/blob/master/img/model.gif?raw=true" alt="model"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/planelles20/model/blob/master/img/field.png?raw=true" alt="field"/>
+    <img src="https://github.com/planelles20/orsogna-bertozzi-3D-model/blob/master/img/field.gif?raw=true" alt="field"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/planelles20/model/blob/master/img/parameters.png?raw=true" alt="parameters"/>
+    <img src="https://github.com/planelles20/orsogna-bertozzi-3D-model/blob/master/img/parameters.gif?raw=true" alt="parameters"/>
 </p>
 
 ## Algorithm
 <p align="center">
-    <img src="https://github.com/planelles20/model/blob/master/img/algorithm.png?raw=true" alt="algorithm diagram"/>
+    <img src="https://github.com/planelles20/orsogna-bertozzi-3D-model/blob/master/img/algorithm.png?raw=true" alt="algorithm diagram"/>
 </p>
 
 ## Results of simulation
@@ -25,5 +25,5 @@ This 3D model is based on "D'Orsogna, Bertozzi et al. model (PRL 2006)".
 
 
 <p align="center">
-  <img src="https://github.com/planelles20/model/blob/master/img/result.gif?raw=true" alt="Vicsek model 3D gif"/>
+  <img src="https://github.com/planelles20/orsogna-bertozzi-3D-model/blob/master/img/result.gif?raw=true" alt="Vicsek model 3D gif"/>
 </p>
