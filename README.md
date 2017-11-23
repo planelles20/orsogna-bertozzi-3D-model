@@ -14,11 +14,6 @@ This 3D model is based on "D'Orsogna, Bertozzi et al. model (PRL 2006)".
     <img src="https://github.com/planelles20/orsogna-bertozzi-3D-model/blob/master/img/parameters.gif?raw=true" alt="parameters"/>
 </p>
 
-## Algorithm
-<p align="center">
-    <img src="https://github.com/planelles20/orsogna-bertozzi-3D-model/blob/master/img/algorithm.png?raw=true" alt="algorithm diagram"/>
-</p>
-
 ## Results of simulation
 
 *[YouTube video]()*
